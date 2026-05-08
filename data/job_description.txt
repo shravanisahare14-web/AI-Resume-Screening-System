@@ -1,0 +1,24 @@
+We are hiring a Python NLP Developer.
+
+Required Skills:
+- Python
+- SQL
+- Machine Learning
+- NLP
+- Pandas
+- NumPy
+- Scikit-learn
+- FastAPI
+- Communication Skills
+
+Responsibilities:
+- Build machine learning systems
+- Analyze resumes
+- Develop automation tools
+- Create NLP pipelines
+- Work with HR analytics
+
+Preferred:
+- Streamlit
+- API Development
+- Data Visualization

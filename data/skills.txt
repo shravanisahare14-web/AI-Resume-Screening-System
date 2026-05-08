@@ -1,0 +1,14 @@
+Python
+SQL
+Machine Learning
+NLP
+Pandas
+NumPy
+Scikit-learn
+FastAPI
+Communication
+Streamlit
+Data Analysis
+Automation
+API Development
+Data Visualization
